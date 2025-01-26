@@ -1,0 +1,15 @@
+{
+    "name": "Tawk.to Chat Unofficial",
+    "description": "App allowing customers to chat directly with support via Tawk.to.",
+    "text": "Chat with us",
+    "icon":"./tawk_to_logo.png",
+    "action": {
+      "label": "Open Chat",
+      "value": "https://tawk.to/chat/%tawkToPath%",
+      "type": "button"
+    },
+    "properties": {
+      "tawkToPath": "Your Tawk.to chat path found in your \"Direct Chat Link\" "
+    },
+    "externalurl": "https://tawk.to"
+  }
